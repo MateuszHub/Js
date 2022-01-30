@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  display: flex;
+  width: 100%;
+}
+
+.itemList {
+  flex: 5 1;
+  text-align: left;
+  padding-top: 10px;
+}
+.itemList > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 30%;
+}
+.catList {
+  flex: 1 1;
+  text-align: left;
+}
+.catList > div {
+  margin: 10px;
+}
