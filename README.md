@@ -1,8 +1,8 @@
 Uruchomienie backend: 
-cd back
-docker-compose up
+cd back  
+docker-compose up  
 
 Uruchomienie frontend:
-cd front
-npm install 
-npm start
+cd front  
+npm install   
+npm start  
